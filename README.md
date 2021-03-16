@@ -1,5 +1,5 @@
 # 07.Introduction-to-Deep-Learning-for-Natural-Language-Processing
-Repository for my Natural Language Processing (NLP) study
+Repository for my Natural Language Processing(자연어 처리) Study
 
 ## What I have learned
 01. 자연어 처리(Natural Language Processing)란?
