@@ -1,5 +1,5 @@
 # 07.Introduction-to-Deep-Learning-for-Natural-Language-Processing
-Repository for my Natural Language Processing(자연어 처리) Study
+<딥러닝을 이용한 자연어 처리 입문> 공부기록
 
 ## What I have learned
 01. 자연어 처리(Natural Language Processing)란?
